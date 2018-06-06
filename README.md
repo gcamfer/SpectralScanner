@@ -5,7 +5,7 @@ This project contains tree main folders and the thesis pdf:
 - [uC](https://github.com/gcamfer/SpectralScanner/tree/master/uC)
 - [bootloader2103](https://github.com/gcamfer/SpectralScanner/tree/master/bootloader2103)
 
--[Thesis document](https://github.com/gcamfer/SpectralScanner/blob/master/TFG_2015-2016_GuillermoCamineroFern%C3%A1ndez(GITET-SE).pdf)
+- [Thesis document](https://github.com/gcamfer/SpectralScanner/blob/master/TFG_2015-2016_GuillermoCamineroFern%C3%A1ndez(GITET-SE).pdf)
 
 
 ## PC
