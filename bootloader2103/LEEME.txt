@@ -1,0 +1,13 @@
+bt2_cygwin.exe
+--------------
+
+Version Windows
+
+1.- Asegurate de abrir un terminal y configurar correctamente la velocidad 
+    del puerto antes de ejecutar el programa. Cygwin no define bien la 
+    velocidad.
+2.- Asegurate de haber abierto el puerto COM correcto (asignado al cable USB)
+    Está hardcoded a /dev/ttyS9 (COM10)
+    
+2012/02/07
+    
